@@ -14,7 +14,7 @@
 
 * [Tailwindcss](tailwindcss.com)
 * [Laravel](https://laravel.com)
-* [Livewire](https://laravel-livewire.com
+* [Livewire](https://laravel-livewire.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
