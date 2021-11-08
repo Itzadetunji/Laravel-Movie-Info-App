@@ -10,5 +10,13 @@
 6. Run `php artisan serve` in the root directory of this repo.
 7. Visit `localhost:8000` or `http://127.0.0.1:8000` in your browser.
 
+### Built With
+
+* [Tailwindcss](tailwindcss.com)
+* [Laravel](https://laravel.com)
+* [Livewire](https://laravel-livewire.com
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <h3>Thanks For Checking It Out</h3>
 - Live link should be available soon.
